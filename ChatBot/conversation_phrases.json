@@ -1,0 +1,55 @@
+{
+    "greeting": [
+        "Hello! This is your Hotel Bot. May I get your name?", 
+        "Hi there! Hotel Bot here to answer all your queries. Please introduce yourself.", 
+        "Hotel Bot welcomes you! Happy to assist you today all hotel thing. How should I address you?"],
+    "intro": [
+        "Nice to meet you, {place_holder}!", 
+        "It's a pleasure to meet you, {place_holder}!", 
+        "Hello, {place_holder}!"],
+    "how_may_i_help":[
+        "How may I assist you today?", 
+        "What can I do for you?", 
+        "Looking for hotels? I can find the best deals for you."],
+    "recommend_prompt": [
+        "Sure, I can recommend some good places for you.", 
+        "Of course! I'd be happy to recommend places for you.", 
+        "Certainly, let me help you find some great options."],
+    "exit_thank_you": [
+        "Thank you for chatting with me. Have a great day!", 
+        "It was wonderful assisting you. Have a fantastic day!", 
+        "Thanks for using our hotel booking bot. Goodbye!"],
+    "not_understand": [
+        "I'm sorry, I couldn't understand your request.", 
+        "I'm not sure I follow. Can you please rephrase?", 
+        "I'm having trouble understanding that. Could you provide more details?"],
+    "recommendation": [
+        "Here's a place_holder for you: {place_holder}", 
+        "Based on your preferences, I suggest: {place_holder}", 
+        "I think you'll like this option: {place_holder}"],
+    "bye_keywords": [
+        "bye", 
+        "exit", 
+        "goodbye"],
+    "area_recommend": [
+        "Recommended hotel in your preferred area.", 
+        "You might like this hotel in your desired location.", 
+        "Consider this hotel for your chosen area."],
+    "rating_recommend": [
+        "Recommended hotel with high ratings.", 
+        "I found a well-rated hotel for you.", 
+        "Here's a hotel that's highly rated by guests."],
+    "name_recommend": [
+        "Recommended hotel by name.", 
+        "This hotel matches the name you mentioned.", 
+        "I have a place_holder that matches the name you provided."],
+    "general_recommend": [
+        "Recommended hotel based on popular choice.", 
+        "Here's a popular choice that you might like.", 
+        "Consider this popular hotel for your stay."],
+    "reserve_hotel":[
+        "Great, I have temporarily reserved the hotel {place_holder}. You need to call us to confirm.", 
+        "Reserving your spot for {place_holder} for 30 mins. Schedule a call with sales team to confirm your booking.", 
+        "Sweet, {placeholder} is reserved for you. Call us to confirm the spot."
+    ]
+}
